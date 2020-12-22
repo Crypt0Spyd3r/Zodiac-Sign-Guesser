@@ -1,4 +1,3 @@
-
 name = str(input("Enter your name: "))
 age = int(input("Enter your age: "))
 mob = str(input("Enter the month were you born in: "))
@@ -29,4 +28,3 @@ elif mob == "December":
 	print("Because " + name + " is " + str(age) + " years old, he/she is a Sagittarius")
 else:
 	print("You are an alien from mars!")
-
